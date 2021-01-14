@@ -14,3 +14,4 @@ Second update from branch lastnewbranch
 Third update from branch lastnewbranch
 
 First update from lastb
+Second update from lastb
