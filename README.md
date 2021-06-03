@@ -1,20 +1,5 @@
 # github-demo
 
 ## Updates
-First update from branch newbranch
-Second update from branch newbranch
-Third update from branch newbranch
+Add tag tag1 from branch test-branch-tag
 
-First update from anothernewbranch
-Second update from branch anothernewbranch
-Third update from branch anothernewbranch
-
-First update from lastnewbranch
-Second update from branch lastnewbranch
-Third update from branch lastnewbranch
-
-First update from lastb
-Second update from lastb
-
-First update from newb
-Second update from newb
